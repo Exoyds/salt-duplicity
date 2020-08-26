@@ -1,7 +1,8 @@
 name: duplicity
 os: Debian, Ubuntu
 os_family: Debian
-version: 202002
+version: 202008
 release: 1
-summary: Formula for installing Duplicity
-description: Formula for installing Duplicity
+summary: Formula for installing Duplicity and a systemd timer for it
+description: Formula for installing Duplicity and a systemd timer for it
+top_level_dir: duplicity
